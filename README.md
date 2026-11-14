@@ -1,7 +1,7 @@
 **Affected product:** ISC BIND 9 (`named`) — ACL evaluation / GeoIP (GeoIP2)  
 **Affected code:** `lib/dns/acl.c:139-144`, `lib/dns/acl.c:176`, `lib/dns/acl.c:384-388`  
 **Severity:** Low (config-dependent, deterministic)  
-**Status:** Reported to ISC (confidential)
+**Status:** Reported to ISC  
 
 ---
 
